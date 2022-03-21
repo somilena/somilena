@@ -1,3 +1,3 @@
 - 👋 Olá, eu sou a Milena.
 - 👀 Meu interesse é nas diversas tecnologias.
-- 🌱 Atualmente, estou aprendendo Linguagem CSS, HTML, JavaScript e C.
+- 🌱 Atualmente, estou aprendendo sobre Linguagem CSS, HTML, JavaScript e Linguagem C.
